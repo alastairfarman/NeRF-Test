@@ -1,5 +1,21 @@
+@font-face {
+  font-family: "Satoshi";
+  src: url(../public/Satoshi-Variable.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Satoshi";
+}
+
 #root {
   width: 100vw;
+  padding: 1rem;
 }
 
 .jelly {
@@ -10,4 +26,3 @@
     #020917 100%
   );
 }
-
