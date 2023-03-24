@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.072745c5.css","mappings":"AAAA,MACE,WACF,CAEA,OACE,sFAMF","sources":["index.css"],"sourcesContent":["#root {\n  width: 100vw;\n}\n\n.jelly {\n  background-image: radial-gradient(\n    circle at 50% 75%,\n    #7ffff9 0%,\n    #0e2547 80%,\n    #020917 100%\n  );\n}\n\n"],"names":[],"sourceRoot":""}
